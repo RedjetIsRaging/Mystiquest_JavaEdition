@@ -1,2 +1,2 @@
-# Mystiquest_JavaEdition
-This is a project that followed Ryi Snow's 2D game development tutorial.
+# Mystidungeon
+This is a basic game that is played through the console. It is a base and will be updated to use buttons and a GUI.
